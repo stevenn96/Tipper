@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/bMeaSEC' title='App Demo' width='' alt='App Demo' />
+<a href="https://imgur.com/bMeaSEC"><img src="https://i.imgur.com/bMeaSEC.gif?1" title="source: imgur.com" /></a>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
